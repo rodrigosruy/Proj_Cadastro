@@ -95,7 +95,7 @@ int main(){
         novaArvore->qtde = 0;
         return novaArvore;
     }
-    int comparaNome(Celula *atual,char nome[]){ //funcao dedicada para retornar se os nomes s„o iguais ou nao
+    int comparaNome(Celula *atual,char nome[]){ //funcao dedicada para retornar se os nomes s√£o iguais ou nao
         for (int i = 0; i < LEN; ++i){
             if (nome[i] != atual->dados->nome[i]){ //se for diferente, retornar
                 return 0;
