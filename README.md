@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodrigosruy/Proj_Cadastro/edit/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodrigosruy/Proj_Cadastro/blob/main/README.md)
 # Projeto Estrutura de Dados (4o Semestre)
 
 ## O repositório inclui o código fonte e um arquivo teste, com alguns cadastros já feitos
