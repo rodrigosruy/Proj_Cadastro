@@ -13,3 +13,4 @@
 - Funcionamento de lógica Input/Output com arquivos em C
 - Limitação ao uso de apenas stdlib e stdio
 - Funcionamento da estrutura de strings 
+- Uso de várias structs e funções para criar stacks, queues e listas sem o uso de bibliotecas extras
