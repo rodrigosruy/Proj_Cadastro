@@ -12,3 +12,4 @@
 - How Input/Output interacts with files in C
 - Limited to using only stdlib and stdio
 - The inner workings of the string structure
+- Use of multiple structs and functions to create stacks, queues and lists in C without a dedicated library
